@@ -86,10 +86,6 @@ body {
     flex-wrap: wrap;  
     width: 100%;
   }
-
-  .image__img {
-    
-  }
   
   .tea-word {
     width: 1000px;
@@ -97,7 +93,7 @@ body {
     line-height: 0.4;
   }
   
-  .tea-size {
+  .image__img {
     max-width: 300px;
     max-height: 200px;
   }
